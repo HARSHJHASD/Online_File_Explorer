@@ -1,6 +1,5 @@
 #ignore the static folder
-static
-static/
+/static
 
 
 # Compiled source #
