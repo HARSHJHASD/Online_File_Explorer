@@ -24,6 +24,11 @@ static
 *.tar
 *.zip
 
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
+
 # Logs and databases #
 ######################
 *.log
